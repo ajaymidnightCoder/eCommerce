@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ajay.pulseBackend.CartTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 14.339 s - in com.ajay.pulseBackend.CartTest
